@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_print"
+        android:icon="@drawable/ic_print"
+        android:title="Print"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_cart"
+        android:icon="@drawable/ic_shopping"
+        android:title="Cart"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout" />
+    <item
+        android:id="@+id/menu_others"
+        android:title="Others" >
+        <menu >
+            <item
+                android:id="@+id/others_FAQ"
+                android:onClick="btn_FAQ"
+                android:title="FAQ" />
+            <item
+                android:id="@+id/others_AboutUs"
+                android:onClick="btn_AboutUs"
+                android:title="About Us" />
+        </menu>
+    </item>
+</menu>

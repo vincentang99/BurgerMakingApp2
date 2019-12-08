@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873736385925",
+    "firebase_url": "https://burgerapp-baaea.firebaseio.com",
+    "project_id": "burgerapp-baaea",
+    "storage_bucket": "burgerapp-baaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873736385925:android:72ec51b7e1946e9c03c0ec",
+        "android_client_info": {
+          "package_name": "com.example.burgermakingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873736385925-j7u5jlvjsaca0uir19dmdf7dnftvbvmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.burgermakingapp",
+            "certificate_hash": "59614a43a3cc5679259f5e5da95236d8dd755cb5"
+          }
+        },
+        {
+          "client_id": "873736385925-t89deqdgvcf29s7uhpil2bn939pc1pq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWIOVCRtEzuYYX8VVCAaDdv4V7VjwtboM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873736385925-t89deqdgvcf29s7uhpil2bn939pc1pq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
